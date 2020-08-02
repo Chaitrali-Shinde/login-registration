@@ -1,0 +1,3 @@
+[submodule "SR272_Brute_Force-master/AdService"]
+	path = SR272_Brute_Force-master/AdService
+	url = https://github.com/BruteForceSIH/AdService.git
